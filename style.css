@@ -1,0 +1,20 @@
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 1rem;
+}
+.image-nav {
+	display: flex;
+	gap: 1rem;
+	align-items: center;
+	overflow-x: auto;
+	padding: 1rem 0;
+}
+
+.image-nav img {
+	flex: 0 0 auto;
+	width: 180px;
+	height: 120px;
+	object-fit: cover;
+}
+
