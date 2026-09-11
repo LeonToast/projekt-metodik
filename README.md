@@ -1,8 +1,17 @@
 # projekt-metodik
 Ni har fått i uppgift av en kund att skapa en hemsida för en restaurang.
-Title (Rubrik): Projekt Titeln
-o Description (Beskrivning)
- Produktmål
+Produktmål: Skapa en hemsida för en italiensk restaurang med en smakfullt design med bas-
+funktionalitet.
+Produktägaren har haft möte med kunden och samlat in följande user-stories:
+
+
+
+Title (HTMLrestaurang): Projekt Titeln
+o Ni har fått i uppgift av en kund att skapa en hemsida för en restaurang.
+Produktmål: Skapa en hemsida för en italiensk restaurang med en smakfullt design med bas-
+funktionalitet.
+Produktägaren har haft möte med kunden och samlat in följande user-stories:
+ Produktmål: en färdig hemside
  Vad är syftet med projektet?
  Vilket problem ska lösas?
  Projektbeskrivning
@@ -14,3 +23,4 @@ o Description (Beskrivning)
  Framgångskritier
  Tekniska ramar
 o Credit: Personer som deltagit i Projektet
+
